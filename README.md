@@ -87,10 +87,7 @@ Our twin AI agents – **Sentiment Intelligence** 🤖 and **Monitoring Sentinel
 
 ---
 
-## 🧩 Installation & Setup
-
 ### 🪄 Step 1: Clone the Project
-```bash
 git clone https://github.com/AnkitShukla-arch/Online-Reputation-Analysis-Management-
 
 
