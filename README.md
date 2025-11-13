@@ -88,8 +88,6 @@ It’s not just a pipeline — it’s a living, **self-aware data organism**.
 git clone https://github.com/<AnkitShukla-arch>/AI-Automated-ETL.git
 cd AI-Automated-ETL
 
-# Launch Docker environment
-docker-compose up --build
 
 # Open the API docs
 http://localhost:8000/docs
