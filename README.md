@@ -99,14 +99,6 @@ git clone https://github.com/AnkitShukla-arch/Online-Reputation-Analysis-Managem
 
 ---
 
-<h2 align="center">🤝✨ Connect • Collaborate • Create</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=Let's+Shape+the+Future+of+AI+Together!;Join+the+LeakHawk+Mission!;Collaborate+with+Next-Gen+AI+Developers!;🚀+Contact+Below+to+Engage+the+System..." alt="Typing Animation">
-</p>
-
----
-
 <h3 align="center">🌐 Command Center Channels</h3>
 
 <p align="center">
