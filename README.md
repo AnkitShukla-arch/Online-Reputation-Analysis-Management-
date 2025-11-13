@@ -107,32 +107,39 @@ http://localhost:8000/docs
 
 ---
 
-## 🛰️ **Contact & Collaboration**
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,100:9400D3&height=3&section=header"/>
-</p>
-
-<p align="center">
-  <b>👨‍💻 Project Lead:</b> <span style="color:#00FFFF;">Lee Christmas</span>  
-</p>
-
-<p align="center">
-  <b>📡 Email:</b> <a href="mailto:leechristmas.dev@protonmail.com" target="_blank">leechristmas.dev@protonmail.com</a>  
-  <br>
-  <b>🌍 LinkedIn:</b> <a href="https://linkedin.com/in/leechristmas" target="_blank">linkedin.com/in/leechristmas</a>  
-  <br>
-  <b>💾 GitHub:</b> <a href="https://github.com/<your-username>" target="_blank">github.com/<your-username></a>  
-  <br>
-  <b>🧠 Portfolio:</b> <a href="https://leechristmas.tech" target="_blank">leechristmas.tech</a>  
-</p>
-
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=⚙️+AI-Automated+ETL+Pipeline+by+Lee+Christmas;🤖+Building+Self-Learning+Data+Ecosystems;🚀+Hackathon+Grade+Data+Engineering+Innovation" alt="Typing SVG" />
+## 🛰️ Contact & Collaboration
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="left" width="140"><strong>👨‍💻 Project Lead</strong></td>
+    <td align="left">Lee Christmas</td>
+  </tr>
+  <tr>
+    <td align="left"><strong>📧 Email</strong></td>
+    <td align="left"><a href="mailto:leechristmas.dev@protonmail.com">leechristmas.dev@protonmail.com</a></td>
+  </tr>
+  <tr>
+    <td align="left"><strong>🔗 LinkedIn</strong></td>
+    <td align="left"><a href="https://linkedin.com/in/leechristmas" target="_blank">linkedin.com/in/leechristmas</a></td>
+  </tr>
+  <tr>
+    <td align="left"><strong>💻 GitHub</strong></td>
+    <td align="left"><a href="https://github.com/<your-username>" target="_blank">github.com/&lt;your-username&gt;</a></td>
+  </tr>
+  <tr>
+    <td align="left"><strong>🌐 Portfolio</strong></td>
+    <td align="left"><a href="https://leechristmas.tech" target="_blank">leechristmas.tech</a></td>
+  </tr>
+</table>
+
+<p align="center" style="margin-top:12px">
+  <small>🔭 Interested in collaboration, hackathon judging, or production pilots — reach out!</small>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:9400D3&height=80&section=footer"/>
-</p>
+</div>
+
+---
