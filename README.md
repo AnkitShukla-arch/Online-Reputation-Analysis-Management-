@@ -84,8 +84,14 @@ It’s not just a pipeline — it’s a living, **self-aware data organism**.
 | **Monitoring**       | Prometheus, Grafana           |
 | **AI Layer**         | IsolationForest / AutoEncoder |
 
-# Clone the repository
-git clone https://github.com/<AnkitShukla-arch>/AI-Automated-ETL.git
+---
+
+## 🛰️ **Launch Sequence Initiation**
+
+### 🧩 **Clone the Repository**
+
+# Initialize the AI-Automated ETL Pipeline
+git clone https://github.com/<your-username>/AI-Automated-ETL.git
 cd AI-Automated-ETL
 
 
