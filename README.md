@@ -139,21 +139,6 @@ git clone https://github.com/AnkitShukla-arch/Online-Reputation-Analysis-Managem
 </p>
 
 
-<h3 align="center">🧠 MISTRI MANDAL HQ — Built for the Future</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-3.0%20Neural%20Build-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next_Update-Incoming-orange?style=for-the-badge" />
-</p>
-
-
-<h4 align="center">⚙️ "MISTRI MANDAL doesn’t just monitor — it predicts." ⚙️</h4>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-</p>
-
 <p align="center">
   <b>🛰️ LeakHawk AI Systems © 2025 — Developed with ❤️ by Visionary Engineers</b>
 </p>
