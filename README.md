@@ -21,3 +21,47 @@ Our twin AI agents – **Sentiment Intelligence** 🤖 and **Monitoring Sentinel
 
 ## 🧠 System Architecture
 
+
+---
+
+## ✨ Key Features
+
+### 🛰 Monitoring Agent (Real-Time Data Pipeline)
+- Scrapes **Google News**, **Twitter**, and **Reddit** in real-time.  
+- Cleans, filters, and enriches posts with timestamps + metadata.  
+- Performs local **sentiment analysis** and **exports dynamic CSVs**.
+
+### 🤖 Sentiment Agent (AI Core)
+- Powered by **FastAPI** + **VADER** + **TF-IDF Keyword Extraction**.  
+- Calculates live **Reputation Score** (0–100).  
+- Detects spikes in negative sentiment 🧨 using anomaly detection.  
+- Auto-generates **human-like reply drafts** using OpenAI API (optional).  
+
+### 🌐 Dashboard (Futuristic Visualization)
+- Built with **Streamlit**, themed with glowing neon UI.  
+- Interactive charts for Positive / Negative / Neutral trends.  
+- Real-time data streaming from the agents.  
+- “**Start Analysis**” autopilot button for one-click execution.  
+- Dynamic time window selector (Past Week / Month / Quarter).  
+
+---
+
+## ⚙️ Tech Stack
+
+| Component | Technology |
+|------------|-------------|
+| **Frontend** | Streamlit (custom bright cyber theme) |
+| **Backend** | FastAPI (Sentiment Agent), Python (Monitoring Agent) |
+| **AI / NLP** | VADER, TF-IDF, optional OpenAI GPT |
+| **Data Sources** | Google News RSS, Twitter via snscrape, Reddit API |
+| **Data Layer** | Pandas + Dynamic CSV ingestion |
+| **Visualization** | Plotly + Streamlit native metrics |
+
+---
+
+## 🧩 Installation & Setup
+
+### 🪄 Step 1: Clone the Project
+```bash
+git clone https://github.com/<your-repo>/LeakHawk.git
+cd LeakHawk
