@@ -1,159 +1,23 @@
-<!-- Futuristic AI-Automated ETL Pipeline README -->
-<h1 align="center">
-⚙️ <span style="color:#00FFFF;">AI-Automated ETL Pipeline</span> ⚙️  
-</h1>
-<h3 align="center">
-<em>“From chaos to clarity — autonomous, adaptive, and intelligent data engineering.”</em>
-</h3>
+<h1 align="center">🚀 MISTRI MANDAL: AI-Powered Reputation Intelligence Dashboard</h1>
 
 <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</p>
-
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Built%20With-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
-<a href="#"><img src="https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Orchestration-Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Monitoring-Grafana%20%26%20Prometheus-F46800?style=for-the-badge&logo=grafana&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/AI%20Agents-Integrated-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Streamlit-Dashboard-brightgreen?style=for-the-badge&logo=streamlit" />
+  <img src="https://img.shields.io/badge/FastAPI-Sentiment%20Engine-orange?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Hackathon-Ready-purple?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
-## 🧠 Vision
-Data doesn’t sleep — and neither does this pipeline.  
-**AI-Automated ETL Pipeline** is a next-gen system that autonomously **ingests**, **cleans**, **validates**, and **monitors** data.  
-It evolves with every dataset — detecting anomalies, isolating threats, and self-retraining without human touch.  
-It’s not just a pipeline — it’s a living, **self-aware data organism**.
+## 🌌 Overview
+
+> **LeakHawk** isn’t just another monitoring tool.  
+> It’s a **futuristic AI ecosystem** that listens, learns, and alerts —  
+> turning chaos across the internet into *real-time actionable intelligence*.  
+
+Our twin AI agents – **Sentiment Intelligence** 🤖 and **Monitoring Sentinel** 🛰 – work hand-in-hand to **analyze online reputation**, **detect anomalies**, and **visualize insights** through an elegant, glowing dashboard built for **judges, investors, and security teams**.
 
 ---
 
-## 🚀 Core Capabilities
+## 🧠 System Architecture
 
-| 🔧 Feature | 💡 Description |
-|-------------|----------------|
-| **Smart Data Ingestion** | Detects CSV, API, and log formats automatically. |
-| **AI-Driven Cleaning** | Fills nulls contextually with “Unknown” or “DummyValue”; normalizes schema dynamically. |
-| **Suspicious Data Firewall** | Flags IPs, fingerprints & anomalies — redirects to a secondary AI stream. |
-| **Storage Engine** | Clean data → **PostgreSQL / MinIO**, flagged data → quarantine for retraining. |
-| **Automated Orchestration** | **Airflow / Prefect** handles pipeline scheduling and health. |
-| **Self-Healing Loop** | The system retrains ML anomaly detectors as new data flows in. |
-| **Containerization & Scaling** | Fully Dockerized with **Kubernetes-ready** orchestration. |
-| **Metrics & Monitoring** | **Prometheus + Grafana** dashboards for live telemetry. |
-
----
-
-## 🧩 System Architecture
-
-
-                ┌──────────────────────┐
-                │     Data Source      │
-                │ (CSV / API / Logs)   │
-                └─────────┬────────────┘
-                          │
-            ┌─────────────▼──────────────┐
-            │  AI-Powered Ingestion Hub  │
-            └─────────────┬──────────────┘
-                          │
-        ┌─────────────────▼────────────────┐
-        │  Cleaning & Validation Layer     │
-        │  (pandas + scikit-learn)         │
-        └─────────────────┬────────────────┘
-                          │
-         ┌────────────────▼──────────────┐
-         │ Suspicious Data Detection AI  │
-         │ (IsolationForest / AutoEncoder)│
-         └────────────────┬──────────────┘
-                          │
-          ┌───────────────▼──────────────┐
-          │  Storage & Analytics Core    │
-          │ (Postgres / MinIO / Grafana) │
-          └───────────────┬──────────────┘
-                          │
-              ┌───────────▼─────────────┐
-              │ Monitoring & Feedback   │
-              │ (Airflow + Prometheus)  │
-              └─────────────────────────┘
-
-| Category             | Technologies                  |
-| -------------------- | ----------------------------- |
-| **Language**         | Python 3.11                   |
-| **Frameworks**       | FastAPI, Prefect / Airflow    |
-| **Data Tools**       | pandas, scikit-learn          |
-| **Storage**          | PostgreSQL, MinIO             |
-| **Containerization** | Docker, Docker Compose        |
-| **Monitoring**       | Prometheus, Grafana           |
-| **AI Layer**         | IsolationForest / AutoEncoder |
-
----
-
-## 🛰️ **Launch Sequence Initiation**
-
-### 🧩 **Clone the Repository**
-
-# Initialize the AI-Automated ETL Pipeline
-git clone https://github.com/<AnkitShukla-arch>/AI-Automated-ETL.git
-cd AI-Automated-ETL
-
-
-# Open the API docs
-http://localhost:8000/docs
-
-| Endpoint     | Description                                  |
-| ------------ | -------------------------------------------- |
-| `/ingest`    | Accepts data from CSV, APIs, or log streams. |
-| `/validate`  | AI cleaning & schema validation.             |
-| `/status`    | Returns live system health metrics.          |
-| `/analytics` | Grafana-powered visualization layer.         |
-
----
-
-## 🤖 Created by Team MISTRI MANDAL
-
-<div align="center">
-
-💡 Built with precision, automation, and innovation.  
-**Team MISTRI MANDAL** — where data meets intelligence.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Powered-ETL%20Pipeline-blueviolet?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TEAM-MISTRI%20MANDAL-00bfff?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MADE%20WITH-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge"/>
-</p>
-
-</div>
-
-
-
----
-
-## 🛰️ Contact & Collaboration
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="left" width="140"><strong>👨‍💻 Project Lead</strong></td>
-    <td align="left">Lee Christmas</td>
-  </tr>
-  <tr>
-    <td align="left"><strong>📧 Email</strong></td>
-    <td align="left"><a href="monishukla727538@gmail.com">leechristmas.dev@protonmail.com</a></td>
-  </tr>
-  <tr>
-    <td align="left"><strong>🔗 LinkedIn</strong></td>
-    <td align="left"><a href="https://www.linkedin.com/in/ankit-shukla-877705285/" target="_blank">linkedin.com/in/leechristmas</a></td>
-  </tr>
-  <tr>
-    <td align="left"><strong>💻 GitHub</strong></td>
-    <td align="left"><a href="https://github.com/<AnkitShukla-arch>" target="_blank">github.com/&lt;your-username&gt;</a></td>
-  </tr>
-  <tr>
-</table>
-
-<p align="center" style="margin-top:12px">
-  <small>🔭 Interested in collaboration, hackathon judging, or production pilots — reach out!</small>
-</p>
-
-</div>
-
----
