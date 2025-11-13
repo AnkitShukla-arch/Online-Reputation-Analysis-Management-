@@ -91,7 +91,7 @@ It’s not just a pipeline — it’s a living, **self-aware data organism**.
 ### 🧩 **Clone the Repository**
 
 # Initialize the AI-Automated ETL Pipeline
-git clone https://github.com/<your-username>/AI-Automated-ETL.git
+git clone https://github.com/<AnkitShukla-arch>/AI-Automated-ETL.git
 cd AI-Automated-ETL
 
 
@@ -104,3 +104,35 @@ http://localhost:8000/docs
 | `/validate`  | AI cleaning & schema validation.             |
 | `/status`    | Returns live system health metrics.          |
 | `/analytics` | Grafana-powered visualization layer.         |
+
+---
+
+## 🛰️ **Contact & Collaboration**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,100:9400D3&height=3&section=header"/>
+</p>
+
+<p align="center">
+  <b>👨‍💻 Project Lead:</b> <span style="color:#00FFFF;">Lee Christmas</span>  
+</p>
+
+<p align="center">
+  <b>📡 Email:</b> <a href="mailto:leechristmas.dev@protonmail.com" target="_blank">leechristmas.dev@protonmail.com</a>  
+  <br>
+  <b>🌍 LinkedIn:</b> <a href="https://linkedin.com/in/leechristmas" target="_blank">linkedin.com/in/leechristmas</a>  
+  <br>
+  <b>💾 GitHub:</b> <a href="https://github.com/<your-username>" target="_blank">github.com/<your-username></a>  
+  <br>
+  <b>🧠 Portfolio:</b> <a href="https://leechristmas.tech" target="_blank">leechristmas.tech</a>  
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=⚙️+AI-Automated+ETL+Pipeline+by+Lee+Christmas;🤖+Building+Self-Learning+Data+Ecosystems;🚀+Hackathon+Grade+Data+Engineering+Innovation" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:9400D3&height=80&section=footer"/>
+</p>
