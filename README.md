@@ -91,7 +91,3 @@ Our twin AI agents – **Sentiment Intelligence** 🤖 and **Monitoring Sentinel
 git clone https://github.com/AnkitShukla-arch/Online-Reputation-Analysis-Management-
 
 
-| Name                      | Role           | Focus                           |
-| ------------------------- | -------------- | ------------------------------- |
-| **Monis [Lee Christmas]** | Data Engineer    | Sentiment & Monitoring Agents   |
-| **MISTRI MANDAL**        | AI Engineers | Data Cleaning + Pipeline Design |
