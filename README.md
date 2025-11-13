@@ -7,6 +7,9 @@
   <img src="https://img.shields.io/badge/Hackathon-Ready-purple?style=for-the-badge&logo=github" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%">
+</p>
 ---
 
 ## 🌌 Overview
