@@ -90,4 +90,76 @@ Our twin AI agents – **Sentiment Intelligence** 🤖 and **Monitoring Sentinel
 ### 🪄 Step 1: Clone the Project
 git clone https://github.com/AnkitShukla-arch/Online-Reputation-Analysis-Management-
 
+---
+
+<h2 align="center">🤝✨ Connect • Collaborate • Create</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=Let's+Shape+the+Future+of+AI+Together!;Join+the+LeakHawk+Mission!;Collaborate+with+Next-Gen+AI+Developers!;🚀+Contact+Below+to+Engage+the+System..." alt="Typing Animation">
+</p>
+
+---
+
+<h3 align="center">🌐 Command Center Channels</h3>
+
+<p align="center">
+  <a href="monishukla727538@gmail.com">
+    <img src="https://img.shields.io/badge/Contact%20HQ-Email%20Now-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/ankit-shukla-877705285/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connected-ff007f?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AnkitShukla-arch">
+    <img src="https://img.shields.io/badge/GitHub-Repository-7fff00?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">💡 Collaboration Matrix</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120">
+</p>
+
+<p align="center">
+  <b>We’re open for futuristic collaborations:</b><br>
+  🔹 AI Research & Data Intelligence<br>
+  🔹 Cybersecurity & OSINT Integrations<br>
+  🔹 Real-time Monitoring Dashboards<br>
+  🔹 AI-driven Brand & Market Analytics<br><br>
+  💬 Ping us for partnerships, integrations, or hackathon alliances.
+</p>
+
+---
+
+<h3 align="center">⚡ System Status</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=1000&color=7FFF00&center=true&vCenter=true&width=700&lines=LeakHawk+System:+Online;Monitoring+Active:+True;Sentiment+Engine:+Synced;Dashboard+Link:+Operational" alt="System Status Animation">
+</p>
+
+---
+
+<h3 align="center">🧠 MISTRI MANDAL HQ — Built for the Future</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-3.0%20Neural%20Build-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next_Update-Incoming-orange?style=for-the-badge" />
+</p>
+
+---
+
+<h4 align="center">⚙️ "MISTRI MANDAL doesn’t just monitor — it predicts." ⚙️</h4>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
+
+<p align="center">
+  <b>🛰️ LeakHawk AI Systems © 2025 — Developed with ❤️ by Visionary Engineers</b>
+</p>
+
+
 
