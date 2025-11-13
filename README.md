@@ -120,20 +120,17 @@ http://localhost:8000/docs
   </tr>
   <tr>
     <td align="left"><strong>📧 Email</strong></td>
-    <td align="left"><a href="mailto:leechristmas.dev@protonmail.com">leechristmas.dev@protonmail.com</a></td>
+    <td align="left"><a href="monishukla727538@gmail.com">leechristmas.dev@protonmail.com</a></td>
   </tr>
   <tr>
     <td align="left"><strong>🔗 LinkedIn</strong></td>
-    <td align="left"><a href="https://linkedin.com/in/leechristmas" target="_blank">linkedin.com/in/leechristmas</a></td>
+    <td align="left"><a href="https://www.linkedin.com/in/ankit-shukla-877705285/" target="_blank">linkedin.com/in/leechristmas</a></td>
   </tr>
   <tr>
     <td align="left"><strong>💻 GitHub</strong></td>
-    <td align="left"><a href="https://github.com/<your-username>" target="_blank">github.com/&lt;your-username&gt;</a></td>
+    <td align="left"><a href="https://github.com/<AnkitShukla-arch>" target="_blank">github.com/&lt;your-username&gt;</a></td>
   </tr>
   <tr>
-    <td align="left"><strong>🌐 Portfolio</strong></td>
-    <td align="left"><a href="https://leechristmas.tech" target="_blank">leechristmas.tech</a></td>
-  </tr>
 </table>
 
 <p align="center" style="margin-top:12px">
