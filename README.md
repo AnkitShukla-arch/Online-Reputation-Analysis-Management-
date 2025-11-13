@@ -14,7 +14,6 @@
 <a href="#"><img src="https://img.shields.io/badge/Built%20With-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
 <a href="#"><img src="https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Orchestration-Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Containerized-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Monitoring-Grafana%20%26%20Prometheus-F46800?style=for-the-badge&logo=grafana&logoColor=white"/></a>
 </p>
 
@@ -45,7 +44,7 @@ It’s not just a pipeline — it’s a living, **self-aware data organism**.
 
 ## 🧩 System Architecture
 
-```text
+
                 ┌──────────────────────┐
                 │     Data Source      │
                 │ (CSV / API / Logs)   │
