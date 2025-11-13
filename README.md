@@ -7,6 +7,12 @@
   <img src="https://img.shields.io/badge/Hackathon-Ready-purple?style=for-the-badge&logo=github" />
 </p>
 
+<h3 align="center">⚡ System Status</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=1000&color=7FFF00&center=true&vCenter=true&width=700&lines=LeakHawk+System:+Online;Monitoring+Active:+True;Sentiment+Engine:+Synced;Dashboard+Link:+Operational" alt="System Status Animation">
+</p>
+
 ---
 
 <p align="center">
@@ -129,13 +135,6 @@ git clone https://github.com/AnkitShukla-arch/Online-Reputation-Analysis-Managem
   🔹 Real-time Monitoring Dashboards<br>
   🔹 AI-driven Brand & Market Analytics<br><br>
   💬 Ping us for partnerships, integrations, or hackathon alliances.
-</p>
-
-
-<h3 align="center">⚡ System Status</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=1000&color=7FFF00&center=true&vCenter=true&width=700&lines=LeakHawk+System:+Online;Monitoring+Active:+True;Sentiment+Engine:+Synced;Dashboard+Link:+Operational" alt="System Status Animation">
 </p>
 
 
