@@ -63,8 +63,8 @@ Our twin AI agents – **Sentiment Intelligence** 🤖 and **Monitoring Sentinel
 
 ### 🪄 Step 1: Clone the Project
 ```bash
-git clone https://github.com/<your-repo>/LeakHawk.git
-cd LeakHawk
+git clone https://github.com/AnkitShukla-arch/Online-Reputation-Analysis-Management-
+
 
 | Name                      | Role           | Focus                           |
 | ------------------------- | -------------- | ------------------------------- |
