@@ -65,3 +65,8 @@ Our twin AI agents – **Sentiment Intelligence** 🤖 and **Monitoring Sentinel
 ```bash
 git clone https://github.com/<your-repo>/LeakHawk.git
 cd LeakHawk
+
+| Name                      | Role           | Focus                           |
+| ------------------------- | -------------- | ------------------------------- |
+| **Monis [Lee Christmas]** | Data Engineer    | Sentiment & Monitoring Agents   |
+| **MISTRI MANDAL**        | AI Engineers | Data Cleaning + Pipeline Design |
