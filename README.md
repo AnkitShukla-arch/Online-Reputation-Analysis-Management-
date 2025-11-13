@@ -140,7 +140,7 @@ git clone https://github.com/AnkitShukla-arch/Online-Reputation-Analysis-Managem
 
 
 <p align="center">
-  <b>🛰️ LeakHawk AI Systems © 2025 — Developed with ❤️ by Visionary Engineers</b>
+  <b>🛰️ MISTRI MANDAL AI Systems © 2025 — Developed with ❤️ by Visionary Engineers</b>
 </p>
 
 
