@@ -26,8 +26,6 @@ Our twin AI agents – **Sentiment Intelligence** 🤖 and **Monitoring Sentinel
 ## 🧠 System Architecture
 
 
----
-
 ## ✨ Key Features
 
 ### 🛰 Monitoring Agent (Real-Time Data Pipeline)
