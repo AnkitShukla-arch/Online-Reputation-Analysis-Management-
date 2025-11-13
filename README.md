@@ -123,25 +123,82 @@ git clone https://github.com/AnkitShukla-arch/Online-Reputation-Analysis-Managem
 
 ---
 
-<h3 align="center">💡 Collaboration Matrix</h3>
-
+<!-- ===== Typing Animation with GIF fallback ===== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120">
+  <!-- Primary: readme-typing-svg (may be blocked on some hosts) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=🛰️+Monitoring+Agent+Activated;🤖+Sentiment+Agent+Online;💡+AI+Reputation+Analysis+Running;⚙️+LeakHawk+Operational"
+       alt="Typing animation" />
+
+  <!-- Fallback (visible if the above fails for some viewers) -->
+  <picture>
+    <source srcset="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" type="image/gif">
+    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Typing fallback GIF" width="700" />
+  </picture>
 </p>
 
-<p align="center">
-  <b>We’re open for futuristic collaborations:</b><br>
-  🔹 AI Research & Data Intelligence<br>
-  🔹 Cybersecurity & OSINT Integrations<br>
-  🔹 Real-time Monitoring Dashboards<br>
-  🔹 AI-driven Brand & Market Analytics<br><br>
-  💬 Ping us for partnerships, integrations, or hackathon alliances.
+---
+
+<!-- ===== Collaboration Section: 3 Neon Cards ===== -->
+<h2 align="center">🤝✨ Collaborate with LeakHawk — Mission Brief</h2>
+
+<p align="center">We’re building the future of reputation intelligence. Choose a lane and ping us — we’ll bring the AI.</p>
+
+<table align="center" cellpadding="12" cellspacing="0" style="max-width:1000px;">
+  <tr>
+    <td valign="top" align="center" width="33%">
+      <div style="border-radius:12px; padding:18px; background: linear-gradient(135deg,#091026 0%, #001428 100%); box-shadow: 0 8px 30px rgba(0,255,255,0.06);">
+        <img src="https://img.shields.io/badge/AI%20Research-Deep%20Learning-00FFFF?style=for-the-badge&logo=google" alt="AI Research" />
+        <h3 style="color:#00e6ff; margin-top:12px;">AI Research & Data Intelligence</h3>
+        <ul style="text-align:left; color:#cfefff; padding-left:18px;">
+          <li>Large-scale signal extraction</li>
+          <li>TF-IDF + semantic keyword trending</li>
+          <li>Model evaluation & bias testing</li>
+        </ul>
+        <p style="margin-top:8px;"><a href="mailto:leakhawk.ai@proton.me" style="color:#00fff6; text-decoration:none; font-weight:600;">Contact Research →</a></p>
+      </div>
+    </td>
+
+    <td valign="top" align="center" width="33%">
+      <div style="border-radius:12px; padding:18px; background: linear-gradient(135deg,#0b0820 0%, #31104e 100%); box-shadow: 0 8px 30px rgba(148,0,211,0.06);">
+        <img src="https://img.shields.io/badge/Cybersecurity-OSINT-ff007f?style=for-the-badge&logo=lock" alt="OSINT" />
+        <h3 style="color:#ff78c7; margin-top:12px;">Cybersecurity & OSINT Integrations</h3>
+        <ul style="text-align:left; color:#ffd6f0; padding-left:18px;">
+          <li>Threat detection pipelines</li>
+          <li>OSINT enrichment & correlation</li>
+          <li>Alerting & incident triage</li>
+        </ul>
+        <p style="margin-top:8px;"><a href="https://www.linkedin.com/in/your-linkedin-profile" style="color:#ff73b0; text-decoration:none; font-weight:600;">Partner with OSINT →</a></p>
+      </div>
+    </td>
+
+    <td valign="top" align="center" width="33%">
+      <div style="border-radius:12px; padding:18px; background: linear-gradient(135deg,#012633 0%, #003a6b 100%); box-shadow: 0 8px 30px rgba(0,123,255,0.06);">
+        <img src="https://img.shields.io/badge/Integrations-Dashboard-7fff00?style=for-the-badge&logo=streamlit" alt="Dashboard" />
+        <h3 style="color:#9effa8; margin-top:12px;">Real-time Monitoring & Dashboards</h3>
+        <ul style="text-align:left; color:#dfffe6; padding-left:18px;">
+          <li>Streamlit + FastAPI orchestration</li>
+          <li>Live data pipelines & demos</li>
+          <li>Custom visualizations & alerts</li>
+        </ul>
+        <p style="margin-top:8px;"><a href="https://github.com/your-github-username" style="color:#7fff00; text-decoration:none; font-weight:600;">View Repo →</a></p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ===== Compact CTA Row (contact badges) ===== -->
+<p align="center" style="margin-top:18px;">
+  <a href="mailto:leakhawk.ai@proton.me">
+    <img src="https://img.shields.io/badge/Contact-Email%20HQ-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Network-ff007f?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/your-github-username">
+    <img src="https://img.shields.io/badge/GitHub-Codebase-7FFF00?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
-
-<p align="center">
-  <b>🛰️ MISTRI MANDAL AI Systems © 2025 — Developed with ❤️ by Visionary Engineers</b>
-</p>
-
-
-
