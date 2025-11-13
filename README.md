@@ -107,6 +107,23 @@ http://localhost:8000/docs
 
 ---
 
+## 🤖 Created by Team MISTRI MANDAL
+
+<div align="center">
+
+💡 Built with precision, automation, and innovation.  
+**Team MISTRI MANDAL** — where data meets intelligence.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Powered-ETL%20Pipeline-blueviolet?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TEAM-MISTRI%20MANDAL-00bfff?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MADE%20WITH-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge"/>
+</p>
+
+</div>
+
+
+
 ---
 
 ## 🛰️ Contact & Collaboration
