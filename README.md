@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2030f0,100:00d9ff&height=180&section=header&text=Online%20Reputation%20Analysis&fontSize=42&fontColor=ffffff" />
+</p>
+
+
 <h1 align="center">🚀 MISTRI MANDAL: AI-Powered Reputation Intelligence Dashboard</h1>
 
 <p align="center">
