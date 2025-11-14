@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<p align="center">
+  <img src="https://i.imgur.com/9b0mz4R.gif" width="800" />
+</p>
 
 
 <h1 align="center">🚀 MISTRI MANDAL: AI-Powered Reputation Intelligence Dashboard</h1>
