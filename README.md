@@ -22,7 +22,6 @@
 
 ## 🌌 Overview
 
-> **LeakHawk** isn’t just another monitoring tool.  
 > It’s a **futuristic AI ecosystem** that listens, learns, and alerts —  
 > turning chaos across the internet into *real-time actionable intelligence*.  
 
