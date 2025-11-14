@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.postimg.cc/3RFm2SJj/glitch.gif" width="800" />
-</p>
-
 <h1 align="center">🚀 MISTRI MANDAL: AI-Powered Reputation Intelligence Dashboard</h1>
 
 <p align="center">
