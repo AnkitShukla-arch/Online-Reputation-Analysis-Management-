@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/scan.gif" width="600">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dotfiles/matrix.gif" width="800">
 </p>
 
 <h1 align="center">🚀 MISTRI MANDAL: AI-Powered Reputation Intelligence Dashboard</h1>
